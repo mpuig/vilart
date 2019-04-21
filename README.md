@@ -1,14 +1,25 @@
-# Creative Theme for Jekyll
+# Dasper
+Dasper is a [Jekyll](https://jekyllrb.com/) theme inspired by [Ghost](https://ghost.org/)'s default theme [Casper](https://demo.ghost.io/) and also [Jasper](https://biomadeira.github.io/jasper/) & [Kasper](http://rosario.io/).
 
-A Jekyll implementation of the [Creative Theme](http://startbootstrap.com/template-overviews/creative/) template by [Start Bootstrap](http://startbootstrap.com).
+## Live Demo
+- [ozgrozer.github.io/dasper](https://ozgrozer.github.io/dasper)
 
-Creative is a one page Bootstrap theme for creatives, small businesses, and other multipurpose uses.
-The theme includes a number of rich features and plugins that you can use as a great boilerplate for your next Jekyll project! 
+## Includes
+- Pagination
+- 404 page
+- Fastclick ([@ftlabs](https://github.com/ftlabs/fastclick))
+- Syntax highlighting ([@PrismJS](https://github.com/PrismJS/prism))
+- Sitemap generator ([@kinnetica](https://github.com/kinnetica/jekyll-plugins))
+- RSS generator ([@agelber](https://github.com/agelber/jekyll-rss))
+- Addthis sharing buttons
+- Disqus comments
+- Google Analytics tracking
 
-See it live in action at <https://volny.github.io/creative-theme-jekyll/>
+## Usage
+1. Fork the repo.
+2. Change repo name from "dasper" to "username.github.io".
+3. Update your informations in the `_config.yml` file.
+4. You're ready to go on https://username.github.io/.
 
-## To use the Creative Theme template in your project
-
-- Start by adding your info in `_config.yml`
-- In `_layouts/front.html` reorder or remove section as you prefer.
-
+## Copyright & License
+Copyright (c) 2016 - Released under the MIT License.
